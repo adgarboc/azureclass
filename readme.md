@@ -1,3 +1,7 @@
+URL: [https://icy-meadow-04154ad10.azurestaticapps.net](https://icy-meadow-04154ad10.azurestaticapps.net)
+<p>
+#AzureClassMX
+</p>
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
